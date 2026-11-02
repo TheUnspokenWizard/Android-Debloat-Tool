@@ -23,7 +23,6 @@ Keep the complete extracted folder together. The `_internal` directory contains 
 - Attempts to uninstall selected packages for Android user 0.
 - Shows per-package results and live progress.
 - Offers a reboot action after a successful debloat operation.
-- Includes About and Donate menus, with BTC and ETH addresses and QR images.
 
 ## Requirements
 
