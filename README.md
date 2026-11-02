@@ -120,9 +120,9 @@ Replace `PACKAGE_NAME` with the exact package name. Restoration is not guarantee
 
 ## Repository contents
 
-The distributed `AndroidDebloatTool.zip` is a packaged Windows application. It contains the executable and its bundled runtime/dependency files, including ADB components and the BTC/ETH QR images.
+The distributed `AndroidDebloatTool.zip` is a packaged Windows application. It contains the executable and its bundled runtime/dependency files, including ADB components 
 
-This ZIP is a **binary distribution**, not the Python source-code project. If you intend to publish the source code, add the `.py` source files and build instructions separately.
+
 
 ## Donate
 
