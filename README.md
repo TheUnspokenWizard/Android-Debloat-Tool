@@ -1,6 +1,6 @@
 # Android Debloat Tool
 
-A Windows desktop utility for managing installed Android applications through **Android Debug Bridge (ADB)**. It is designed to let users review installed packages and uninstall selected apps for Android's primary user without requiring root access.
+A Windows desktop utility for managing installed Android applications through **Android Debug Bridge (ADB)**. It is designed to let users review installed packages and uninstall selected apps for Android's primary user without requiring root access. Remember You need to Install Python before run the application. Download Python : https://www.python.org/downloads/ , Standalone Installer Recommended.
 
 > **Important:** No-root debloating normally removes an app for Android user `0`; it does not physically erase protected system APKs from the system partition.
 
@@ -27,6 +27,7 @@ Keep the complete extracted folder together. The `_internal` directory contains 
 ## Requirements
 
 - Windows 10 or Windows 11.
+- Python must be installed
 - An Android device and a USB data cable.
 - USB debugging enabled on the Android device.
 - The device must authorize the computer's USB debugging RSA prompt.
